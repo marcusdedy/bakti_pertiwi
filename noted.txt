@@ -1,0 +1,24 @@
+Tambahan :
+
+- print informasi dari halaman depan	v
+- print jadwal siswa                    V
+- tanggal dibuat pilihan 		v
+
+
+noted:
+- form
+	tampil_jadwal_siswa.php
+	print_jadwal_siswa.php
+	login.php
+	print_kegiatan.php
+	print2.php
+	tambah_kal.php
+	tambah_guru.php
+	tambah_siswa.php
+	tambah_admin.php
+	print_absensi.php
+	print_guru.php
+	print_nilai.php
+	print_peg.php
+folder
+calender
